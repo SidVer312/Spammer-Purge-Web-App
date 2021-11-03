@@ -1,0 +1,22 @@
+{
+  "name": "spammer-purge-web-app",
+  "version": "1.0.0",
+  "description": "ThioJoe made a python application that purges fake comments. Now I will try™ to make a web version of it!",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaogelado/Spammer-Purge-Web-App.git"
+  },
+  "keywords": [
+    "youtube"
+  ],
+  "author": "João Vítor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joaogelado/Spammer-Purge-Web-App/issues"
+  },
+  "homepage": "https://github.com/joaogelado/Spammer-Purge-Web-App#readme"
+}
